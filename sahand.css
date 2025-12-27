@@ -587,8 +587,10 @@ footer p:first-child {
         height: 220px;
     }
     .header{
+        background-image:none;
         background-position:auto;
         width:auto;
         min-height: auto;
     }
 }
+
