@@ -26,6 +26,7 @@ body {
 
 /* Header */
 .header {
+    background-color: #8f522a;
     background-image: url('Camp-Nou.jpg');
     background-repeat: no-repeat;
     background-size: auto;
@@ -586,8 +587,8 @@ footer p:first-child {
         height: 220px;
     }
     .header{
-        width: auto;
-        height: auto;
+        background-position:auto;
+        width:auto;
+        min-height: auto;
     }
 }
-
