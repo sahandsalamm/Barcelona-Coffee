@@ -25,7 +25,16 @@ body {
 
 
 /* Header */
-
+    .header {
+        background-color: #8f522a;
+        background-image: url('Camp-Nou.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center;
+        height: 90vh;
+        position: relative;
+    }   
 
 .overlay {
     background: rgba(25, 3, 3, 0.6);
@@ -581,16 +590,5 @@ footer p:first-child {
     .header{
     }
 }
-@media (min-width: 769px) {
-    .header {
-        background-color: #8f522a;
-        background-image: url('Camp-Nou.jpg');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-        background-position: center;
-        height: 90vh;
-        position: relative;
-    }   
-}
+
 
