@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    background: linear-gradient(135deg, #f5f1eb 0%, #e8ddd4 100%);
+    
     color: #2c1810;
     font-family: 'Georgia', 'Times New Roman', serif;
     line-height: 1.6;
@@ -134,7 +134,7 @@ body {
 /* Menu */
 .menu-section {
     padding: 80px 8%;
-    background: #faf9f7;
+    background: seashell
 }
 
 .menu-section h2 {
@@ -355,7 +355,7 @@ body {
 
 .item-details {
     padding: 30px;
-    background: #ffffff;
+    background: #fdfdfd;
 }
 
 .item-details h4 {
@@ -585,4 +585,9 @@ footer p:first-child {
         font-size: 20px;
         height: 220px;
     }
+    .header{
+        width: auto;
+        height: auto;
+    }
 }
+
